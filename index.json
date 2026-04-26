@@ -235,5 +235,6 @@
   "Mount Frestel": "https://storage.dimszyhub.my.id/json/mount_frestel.json",
   "Mount Ayriene": "https://storage.dimszyhub.my.id/json/mount_ayriene.json",
   "Mount Agee": "https://storage.dimszyhub.my.id/json/mount_agee.json",
-  "Artic (Hard)": "https://gitlab.com/forky1/forkyHUB/-/raw/main/Hard.json"
+  "Artic (Hard)": "https://gitlab.com/forky1/forkyHUB/-/raw/main/Hard.json",
+  "Artic (Normal)": "https://gitlab.com/forky1/forkyHUB/-/raw/main/Normal.json"
 }
